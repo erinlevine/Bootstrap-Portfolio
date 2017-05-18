@@ -21,3 +21,15 @@
 img {
 	padding-right: 10px;
 }
+
+.navbar-brand {
+	font-family: 'Roboto', sans-serif;
+}
+
+.navbar-collapse {
+	font-family: 'Roboto', sans-serif;
+}
+
+.footer {
+	font-family: 'Roboto', sans-serif;
+}
