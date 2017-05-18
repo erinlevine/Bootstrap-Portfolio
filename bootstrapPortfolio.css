@@ -1,0 +1,23 @@
+.firstParagraph {
+	font-family: 'Roboto', sans-serif;
+	padding:0px 15px 0px;
+}
+
+.secondParagraph {
+	font-family: 'Roboto', sans-serif;
+	padding:0px 15px 0px;
+}
+
+.about {
+	font-family: 'Pacifico', cursive;
+	color: #66b2b2;
+}
+
+.connect {
+	font-family: 'Pacifico', cursive;
+	color: #66b2b2;
+}
+
+img {
+	padding-right: 10px;
+}
