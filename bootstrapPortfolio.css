@@ -39,6 +39,7 @@ img {
 .wrapper img {
   display: block;
   max-width:100%;
+  padding: 0;
 }
 
 .wrapper .overlay {
